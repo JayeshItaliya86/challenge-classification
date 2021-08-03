@@ -1,5 +1,11 @@
 # challenge-classification
 Challenge classification
+Contributors:
+Jacques Declercq
+Jayesh Italiya
+Graciela Lopez Rosson
+Bilal Mesmoudi
+Amaury van Kesteren
 
 # 0. Setting up the project
 
@@ -161,6 +167,10 @@ for i in range(2,number_bearing+1):
 ![fft](https://user-images.githubusercontent.com/84380197/128018059-eb45a8c5-69ea-4c84-81f1-a41c85dbee25.png)
 
 ![fft2](https://user-images.githubusercontent.com/84380197/128019714-37dba357-028f-4406-be97-7eaabfdfd2de.png)
+
+![fft110](https://user-images.githubusercontent.com/84380197/128024947-79f5314b-7911-4db5-ac1f-9456dcfb8713.png)
+
+![fft1](https://user-images.githubusercontent.com/84380197/128024963-5d778d03-0cc4-4a3c-90e0-828e5961c91d.png)
 
 ## Merge all the dataframes
 ```
