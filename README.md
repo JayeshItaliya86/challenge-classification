@@ -1,5 +1,6 @@
 # challenge-classification
 Challenge classification
+
 Contributors:
 Jacques Declercq
 Jayesh Italiya
@@ -10,8 +11,11 @@ Amaury van Kesteren
 # 0. Setting up the project
 
 Conda packages
+
 Github repo link: https://github.com/JayeshItaliya86/challenge-classification
+
 ReadMe file
+
 Importing:
 
 ```
