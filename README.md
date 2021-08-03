@@ -2,10 +2,15 @@
 Challenge classification
 
 Contributors:
+
 Jacques Declercq
+
 Jayesh Italiya
+
 Graciela Lopez Rosson
+
 Bilal Mesmoudi
+
 Amaury van Kesteren
 
 # 0. Setting up the project
